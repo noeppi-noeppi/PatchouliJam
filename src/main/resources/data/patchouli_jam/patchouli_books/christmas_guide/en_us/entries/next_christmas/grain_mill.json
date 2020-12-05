@@ -1,0 +1,23 @@
+{
+  "name": "Grain Mill",
+  "category": "patchouli_jam:next_christmas",
+  "icon": "next_christmas:grain_mill",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:grain_mill",
+      "text": "The Grain Mill is able to grind down things to powder. To fill in the input slot right click the top third of the mill. To mill the input, right click the middle part and to retrieve the output, right click the bottom third."
+    },
+    {
+      "type": "patchouli_jam:grain_mill",
+      "recipe": "next_christmas:next_christmas_mill/flour",
+      "recipe2": "minecraft:next_christmas_mill/sugar",
+      "recipe3": "next_christmas:next_christmas_mill/crushed_nut"
+    },
+    {
+      "type": "patchouli_jam:grain_mill",
+      "recipe": "next_christmas:next_christmas_mill/vanilla",
+      "recipe2": "next_christmas:next_christmas_mill/cinnamon"
+    }
+  ]
+}

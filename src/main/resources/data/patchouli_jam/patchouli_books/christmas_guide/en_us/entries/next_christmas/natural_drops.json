@@ -1,0 +1,29 @@
+{
+  "name": "Natural Drops",
+  "category": "patchouli_jam:next_christmas",
+  "icon": "next_christmas:hazelnut",
+  "pages": [
+    {
+      "type": "text",
+      "text": "You can get some new natural things used to create different biscuits."
+    },
+    {
+      "type": "spotlight",
+      "item": "next_christmas:hazelnut",
+      "text": "Hazelnut can drop like apples when breaking Dark Oak Leaves.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "next_christmas:vanilla_fruits",
+      "text": "Vanilla Fruits are obtained by breaking grass.",
+      "link_recipe": true
+    },
+    {
+      "type": "spotlight",
+      "item": "next_christmas:cinnamon_bark",
+      "text": "Cinnamon Bark can sometimes be found when stripping oak logs with an axe.",
+      "link_recipe": true
+    }
+  ]
+}

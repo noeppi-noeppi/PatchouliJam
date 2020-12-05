@@ -1,0 +1,51 @@
+{
+  "name": "Candles",
+  "category": "patchouli_jam:next_christmas",
+  "icon": "next_christmas:candle_yellow",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Decorative Blocks that can be crafted or found in a $(l:patchouli_jam:next_christmas/christmas_forest)Christmas Forest$(). After placing a candle, right click it with a flint and steel to light it up."
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:candle_white",
+      "recipe2": "next_christmas:candle_orange"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:candle_magenta",
+      "recipe2": "next_christmas:candle_light_blue"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:candle_yellow",
+      "recipe2": "next_christmas:candle_lime"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:candle_pink",
+      "recipe2": "next_christmas:candle_gray"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:candle_light_gray",
+      "recipe2": "next_christmas:candle_cyan"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:candle_purple",
+      "recipe2": "next_christmas:candle_blue"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:candle_brown",
+      "recipe2": "next_christmas:candle_green"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:candle_red",
+      "recipe2": "next_christmas:candle_black"
+    }
+  ]
+}

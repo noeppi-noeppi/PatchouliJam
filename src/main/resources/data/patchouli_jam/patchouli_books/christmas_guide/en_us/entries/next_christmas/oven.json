@@ -1,0 +1,36 @@
+{
+  "name": "Oven",
+  "category": "patchouli_jam:next_christmas",
+  "icon": "next_christmas:oven",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The oven can be used to bake things. To do so you first need a baking sheet. You can then put biscuits on it and bake them. The baking sheets can also be used for decoration."
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:oven",
+      "recipe2": "next_christmas:baking_sheet"
+    },
+    {
+      "type": "patchouli_jam:oven",
+      "recipe": "next_christmas:next_christmas_oven/gingerbread_baked_sheet",
+      "recipe2": "next_christmas:next_christmas_oven/cinnamon_star_baked_sheet"
+    },
+    {
+      "type": "patchouli_jam:oven",
+      "recipe": "next_christmas:next_christmas_oven/vanilla_crescent_baked_sheet",
+      "recipe2": "next_christmas:next_christmas_oven/speculaas_baked_sheet"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:gingerbread_dough_sheet",
+      "recipe2": "next_christmas:cinnamon_star_dough_sheet"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:vanilla_crescent_dough_sheet",
+      "recipe2": "next_christmas:speculaas_dough_sheet"
+    }
+  ]
+}

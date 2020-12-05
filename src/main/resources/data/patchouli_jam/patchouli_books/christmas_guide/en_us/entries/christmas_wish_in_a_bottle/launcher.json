@@ -1,0 +1,16 @@
+{
+  "name": "Bottle Launcher",
+  "category": "patchouli_jam:christmas_wish_in_a_bottle",
+  "icon": "christmas_wish_in_a_bottle:bottle_launcher",
+  "pages": [
+    {
+      "type": "text",
+      "text": "With this bottle launcher you can launch your wishes directly to santa. They'll get answered over night. You can send 5 wishes at once before you have to wait for the next day."
+    },
+    {
+      "type": "crafting",
+      "recipe": "christmas_wish_in_a_bottle:bottle_launcher",
+      "text": "Crafting the launcher."
+    }
+  ]
+}

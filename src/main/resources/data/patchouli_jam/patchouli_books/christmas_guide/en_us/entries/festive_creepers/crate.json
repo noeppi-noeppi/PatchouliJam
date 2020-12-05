@@ -1,0 +1,17 @@
+{
+  "name": "Fireworks Crate",
+  "category": "patchouli_jam:festive_creepers",
+  "icon": "festive_creepers:fireworks_crate",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Firework crates behave like TNT but instead of creating an explosion, they'll spawn some firework. This is the perfect thing to celebrate New Years Eve. Just like TNT you can also turn it into a minecart."
+    },
+    {
+      "type": "crafting",
+      "title": "Crafting the Crate",
+      "recipe": "festive_creepers:fireworks_crate",
+      "recipe2": "festive_creepers:fireworks_crate_minecart"
+    }
+  ]
+}

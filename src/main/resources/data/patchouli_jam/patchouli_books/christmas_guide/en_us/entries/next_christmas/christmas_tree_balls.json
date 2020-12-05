@@ -1,0 +1,51 @@
+{
+  "name": "Christmas Tree Balls",
+  "category": "patchouli_jam:next_christmas",
+  "icon": "next_christmas:christmas_tree_ball_red",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Decorative Blocks that can be crafted or found in a $(l:patchouli_jam:next_christmas/christmas_forest)Christmas Forest$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:christmas_tree_ball_white",
+      "recipe2": "next_christmas:christmas_tree_ball_orange"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:christmas_tree_ball_magenta",
+      "recipe2": "next_christmas:christmas_tree_ball_light_blue"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:christmas_tree_ball_yellow",
+      "recipe2": "next_christmas:christmas_tree_ball_lime"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:christmas_tree_ball_pink",
+      "recipe2": "next_christmas:christmas_tree_ball_gray"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:christmas_tree_ball_light_gray",
+      "recipe2": "next_christmas:christmas_tree_ball_cyan"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:christmas_tree_ball_purple",
+      "recipe2": "next_christmas:christmas_tree_ball_blue"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:christmas_tree_ball_brown",
+      "recipe2": "next_christmas:christmas_tree_ball_green"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:christmas_tree_ball_red",
+      "recipe2": "next_christmas:christmas_tree_ball_black"
+    }
+  ]
+}

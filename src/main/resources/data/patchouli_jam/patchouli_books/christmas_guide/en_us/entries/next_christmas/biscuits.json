@@ -1,0 +1,39 @@
+{
+  "name": "Biscuits",
+  "category": "patchouli_jam:next_christmas",
+  "icon": "next_christmas:gingerbread",
+  "pages": [
+    {
+      "type": "text",
+      "text": "You can bake some biscuits in an $(l:patchouli_jam:next_christmas/oven)Oven$(). They grant potion effects for a short period of time and taste very good."
+    },
+    {
+      "type": "crafting",
+      "title": "Gingerbread",
+      "recipe": "next_christmas:gingerbread_dough",
+      "recipe2": "next_christmas:gingerbread",
+      "text": "Grants Night Vision"
+    },
+    {
+      "type": "crafting",
+      "title": "Vanilla Crescent",
+      "recipe": "next_christmas:vanilla_crescent_dough",
+      "recipe2": "next_christmas:vanilla_crescent",
+      "text": "Grants Haste"
+    },
+    {
+      "type": "crafting",
+      "title": "Cinnamon Stars",
+      "recipe": "next_christmas:cinnamon_star_dough",
+      "recipe2": "next_christmas:cinnamon_star",
+      "text": "Grants Resistance"
+    },
+    {
+      "type": "crafting",
+      "title": "Speculaas",
+      "recipe": "next_christmas:speculaas_dough",
+      "recipe2": "next_christmas:speculaas",
+      "text": "Grants Luck"
+    }
+  ]
+}

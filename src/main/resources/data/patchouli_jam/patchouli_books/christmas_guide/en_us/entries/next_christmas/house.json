@@ -1,0 +1,12 @@
+{
+  "name": "Gingerbread House",
+  "category": "patchouli_jam:next_christmas",
+  "icon": "next_christmas:gingerbread_house",
+  "pages": [
+    {
+      "type": "crafting",
+      "text": "A tasty house made out of $(l:patchouli_jam:next_christmas/biscuits)Gingerbread$(). Can be eaten like a cake or used as decoration.",
+      "recipe": "next_christmas:gingerbread_house"
+    }
+  ]
+}

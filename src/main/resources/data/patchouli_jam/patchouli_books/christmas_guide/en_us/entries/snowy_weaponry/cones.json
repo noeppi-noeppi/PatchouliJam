@@ -1,0 +1,26 @@
+{
+  "name": "Snow cones",
+  "category": "patchouli_jam:snowy_weaponry",
+  "icon": "snowyweaponry:snow_cone",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Create some Wafer Cones and put some snow in to create a thing that looks like Ice Cream and tastes like Winter."
+    },
+    {
+      "type": "crafting",
+      "recipe": "snowyweaponry:wafer_cone",
+      "recipe2": "snowyweaponry:snow_cone"
+    },
+    {
+      "type": "crafting",
+      "recipe": "snowyweaponry:golden_snow_cone",
+      "text": "The Golden Snow Cone will coll you down so you won't be vulnerable to fire damage for 6 seconds after eating it."
+    },
+    {
+      "type": "patchouli_jam:special_crafting",
+      "recipe": "snowyweaponry:potion_cone_recipe",
+      "text": "Craft four regular snow cones with a potion to get a Potion Snow Cone that will give you a potion effect and looks even better."
+    }
+  ]
+}

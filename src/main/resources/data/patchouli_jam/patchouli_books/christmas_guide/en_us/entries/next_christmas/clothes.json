@@ -1,0 +1,24 @@
+{
+  "name": "Christmas Clothes",
+  "category": "patchouli_jam:next_christmas",
+  "icon": "next_christmas:sweater_tree",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:santa_hat",
+      "text": "This Santa hat gives you a Christmas-Look and keeps your ears warm. There are also 4 different christmas sweaters. They look cool but grant no armor points."
+    },
+    {
+      "type": "crafting",
+      "title": "Christmas Sweaters I",
+      "recipe": "next_christmas:sweater_tree",
+      "recipe2": "next_christmas:sweater_reindeer"
+    },
+    {
+      "type": "crafting",
+      "title": "Christmas Sweaters II",
+      "recipe": "next_christmas:sweater_snowflake",
+      "recipe2": "next_christmas:sweater_snowman"
+    }
+  ]
+}

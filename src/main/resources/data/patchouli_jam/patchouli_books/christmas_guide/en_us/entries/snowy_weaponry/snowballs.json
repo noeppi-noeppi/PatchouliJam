@@ -1,0 +1,31 @@
+{
+  "name": "Cored Snowballs",
+  "category": "patchouli_jam:snowy_weaponry",
+  "icon": "snowyweaponry:diamond_cored_snowball",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Make your snowballs more deadly by putting a piece of metal into them. Now you can actually use them as weapons and kill your enemies."
+    },
+    {
+      "type": "crafting",
+      "recipe": "snowyweaponry:iron_cored_snowball",
+      "text": "The Iron Cored Snowball inflicts one heart of damage."
+    },
+    {
+      "type": "crafting",
+      "recipe": "snowyweaponry:gold_cored_snowball",
+      "text": "The Gold Cored Snowball does half a heart of damage but has the ffects of Looting I when killing someone."
+    },
+    {
+      "type": "crafting",
+      "recipe": "snowyweaponry:diamond_cored_snowball",
+      "text": "The Diamond Cored Snowball inflicts 1.5 hearts of damage and applies Slowness I for a short time."
+    },
+    {
+      "type": "crafting",
+      "recipe": "snowyweaponry:netherite_cored_snowball",
+      "text": "The Netherite Cored Snowball does two hearts of damage and applies Blindness for a short time."
+    }
+  ]
+}

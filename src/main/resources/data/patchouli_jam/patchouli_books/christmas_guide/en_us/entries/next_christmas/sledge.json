@@ -1,0 +1,31 @@
+{
+  "name": "Sledge",
+  "category": "patchouli_jam:next_christmas",
+  "icon": "next_christmas:sledge_spruce",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Sledges are vehicles to be used on snow and ice. Unlike boats, they can also step up blocks. Use the sprint key while travelling on a sledge to make it faster but disable block step up. You can also add a chest to a sledge to give it an inventory and even an elytra that will make it fly when pressing the jump key."
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:sledge_oak",
+      "recipe2": "next_christmas:sledge_spruce"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:sledge_birch",
+      "recipe2": "next_christmas:sledge_jungle"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:sledge_acacia",
+      "recipe2": "next_christmas:sledge_dark_oak"
+    },
+    {
+      "type": "crafting",
+      "recipe": "next_christmas:sledge_crimson",
+      "recipe2": "next_christmas:sledge_warped"
+    }
+  ]
+}

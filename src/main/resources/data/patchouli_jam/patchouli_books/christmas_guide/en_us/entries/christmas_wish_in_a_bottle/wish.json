@@ -1,0 +1,16 @@
+{
+  "name": "Wish Bottle",
+  "category": "patchouli_jam:christmas_wish_in_a_bottle",
+  "icon": "christmas_wish_in_a_bottle:christmas_wish_in_a_bottle",
+  "pages": [
+    {
+      "type": "text",
+      "text": "You can send this wish to Santa via the $(l:patchouli_jam:christmas_wish_in_a_bottle/launcher)Bottle Launcher$(). This wish will grant you some $(l:patchouli_jam:jolly_boxes/boxes)Jolly Boxes$()."
+    },
+    {
+      "type": "crafting",
+      "recipe": "christmas_wish_in_a_bottle:christmas_wish_bottle",
+      "text": "Crafting wish in a bottle."
+    }
+  ]
+}

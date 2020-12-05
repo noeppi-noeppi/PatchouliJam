@@ -1,0 +1,29 @@
+{
+  "name": "Christmas Forest",
+  "category": "patchouli_jam:next_christmas",
+  "icon": "next_christmas:star",
+  "pages": [
+    {
+      "type": "text",
+      "text": "A Christmas Forest is a snowy biome with decorated christmas trees. Reindeers can spawn there and snow won't melt when near a light source."
+    },
+    {
+      "type": "image",
+      "images": [ "patchouli_jam:textures/next_christmas/christmas_forest.png" ],
+      "border": true,
+      "text": "A christmas tree with a reindeer."
+    },
+    {
+      "type": "entity",
+      "title": "Reindeer",
+      "entity": "next_christmas:reindeer",
+      "text": "Reindeers can spawn in christmas forests. It might not be a good idea to hit one."
+    },
+    {
+      "type": "spotlight",
+      "item": "next_christmas:star",
+      "text": "This star can occasionally be found on trees in a Christmas Forest. It can be used as decoration.",
+      "link_recipe": true
+    }
+  ]
+}

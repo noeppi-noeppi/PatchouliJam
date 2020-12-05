@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="APACHE-2.0"
+issueTrackerURL="https://github.com/noeppi_noeppi/PatchouliJam/issues"
+
+[[mods]]
+modId="patchouli_jam"
+version="${file.jarVersion}"
+displayName="PatchouliJam"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/patchouli-jam"
+authors="noeppi_noeppi"
+description='''
+Adds Patchouli based documentation to MMD Event Mods.
+'''
+
+[[dependencies.patchouli_jam]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.patchouli_jam]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,)"
+    ordering="NONE"
+    side="BOTH"
+

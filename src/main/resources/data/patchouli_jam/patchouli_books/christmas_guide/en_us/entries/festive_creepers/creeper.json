@@ -1,0 +1,26 @@
+{
+  "name": "Festive Creeper",
+  "category": "patchouli_jam:festive_creepers",
+  "icon": "festive_creepers:festive_creeper_spawn_egg",
+  "pages": [
+    {
+      "type": "entity",
+      "title": "Festive Creeper",
+      "entity": "festive_creepers:festive_creeper",
+      "text": "Festive creepers spawn in snowy biomes. If you're playing in december, you can meet them everywhere."
+    },
+    {
+      "type": "crafting",
+      "title": "Firework Powder",
+      "recipe": "festive_creepers:firework_powder",
+      "text": "They blow up like normal creepers and igniting them makes them fly up and spawn a firework. You can get some Firework Powder if you manage to kill it. It can also be crafted manually."
+    },
+    {
+      "type": "spotlight",
+      "title": "Festive Hat",
+      "item": "festive_creepers:festive_hat",
+      "text": "The festive hat is a fancy looking rare drop from festive creepers.",
+      "link_recipe": true
+    }
+  ]
+}

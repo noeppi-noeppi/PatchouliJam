@@ -1,0 +1,20 @@
+{
+  "name": "Jolly Boxes",
+  "category": "patchouli_jam:jolly_boxes",
+  "icon": "jolly_boxes:small_box",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Jolly Boxes",
+      "item": "jolly_boxes:small_box",
+      "text": "Jolly Boxes are little presents that appear over night. Go for a sleep to get yourself some of those. They can be upgraded to create better versions that yield better items. Breaking a present opens it and by right-clicking it you can pick it up.",
+      "link_recipe": true
+    },
+    {
+      "type": "crafting",
+      "title": "Upgrading Boxes",
+      "recipe": "jolly_boxes:medium_box",
+      "recipe2": "jolly_boxes:large_box"
+    }
+  ]
+}
