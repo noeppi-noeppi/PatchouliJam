@@ -1,0 +1,30 @@
+{
+  "name": "Cold Snap Horde",
+  "category": "patchouli_jam:cold_snap_horde",
+  "icon": "coldsnaphorde:snowiersnowball",
+  "pages": [
+    {
+      "type": "text",
+      "title": "The Cold Snap Horde",
+      "text": "The Cold Snap Horde is a group of angry snowmen that are trying to kill players, villagers and golems. They can be found in any cold biome. To stay safe you can wear a $(l:patchouli_jam:cold_snap_horde/hat)Top Hat$() to trick them. But don't take it off while they see you."
+    },
+    {
+      "type": "entity",
+      "title": "Snowman Gunner",
+      "entity": "coldsnaphorde:coldsnapgunner",
+      "text": "This one fires coal at you from a toy gun. It may sometimes blind you for a short time."
+    },
+    {
+      "type": "entity",
+      "title": "Snowman Stabber",
+      "entity": "coldsnaphorde:coldsnapstabber",
+      "text": "This madman runs around with a knife to kill everyone in sight."
+    },
+    {
+      "type": "entity",
+      "title": "Snowman Snowballer",
+      "entity": "coldsnaphorde:coldsnapsnowballer",
+      "text": "This tradition-conscious snowman will shoot $(l:patchouli_jam:cold_snap_horde/snowballs)Snow Covered Rock$() at you."
+    }
+  ]
+}

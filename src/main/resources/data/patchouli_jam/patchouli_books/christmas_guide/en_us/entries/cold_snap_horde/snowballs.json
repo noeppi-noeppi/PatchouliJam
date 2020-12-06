@@ -1,0 +1,17 @@
+{
+  "name": "Snowballs",
+  "category": "patchouli_jam:cold_snap_horde",
+  "icon": "coldsnaphorde:rockysnowball",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "coldsnaphorde:rockysnowball",
+      "text": "Snow Covered Rock can be thrown like a regular snowball but it will actually damage entities and sometimes applied weakness or slowness for a short time."
+    },
+    {
+      "type": "crafting",
+      "recipe": "coldsnaphorde:snowiersnowball",
+      "text": "Snowier Snowballs always inflict Slowness and are pretty effective against Blazes."
+    }
+  ]
+}

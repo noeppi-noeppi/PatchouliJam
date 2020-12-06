@@ -1,0 +1,18 @@
+{
+  "name": "Top Hat",
+  "category": "patchouli_jam:cold_snap_horde",
+  "icon": "coldsnaphorde:tophat",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "coldsnaphorde:iceshard",
+      "text": "Frost Shards are a very rare drop fom Snowmans from the $(l:patchouli_jam:cold_snap_horde/horde)Cold Snap Horde$(). It can be used to craft Frost Cores and the Top Hat. The Top Hat will make the Cold Snap Horde think that you're a part of them. But you have to put it on while they don't see you.",
+      "link_recipe": true
+    },
+    {
+      "type": "crafting",
+      "recipe": "coldsnaphorde:icecore",
+      "recipe2": "coldsnaphorde:tophat"
+    }
+  ]
+}
