@@ -15,13 +15,9 @@
       "recipe2": "coldsnaphorde:tophat"
     },
     {
-      "type": "spotlight",
-      "item": "coldsnaphorde:thermometer",
-      "text": "The thermometer allows you to check the temperature of your current biome. If the thermometer reads cold, you are likely to see a member of the horde when dusk falls. They have however been known to appear in warm environments as well at times..."
-    },
-    {
       "type": "crafting",
-      "recipe": "coldsnaphorde:thermometer"
+      "recipe": "coldsnaphorde:thermometer",
+      "text": "The thermometer allows you to check the temperature of your current biome. If the thermometer reads cold, you are likely to see a member of the horde when dusk falls. They have however been known to appear in warm environments as well at times..."
     }
   ]
 }
