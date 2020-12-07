@@ -11,7 +11,7 @@
     {
       "type": "crafting",
       "recipe": "coldsnaphorde:snowiersnowball",
-      "text": "Snowier Snowballs always inflict Slowness and are pretty effective against Blazes."
+      "text": "Snowier Snowballs always inflict Slowness and are pretty effective against Blazes. They can also freeze water, and turn lava to obsidian."
     }
   ]
 }

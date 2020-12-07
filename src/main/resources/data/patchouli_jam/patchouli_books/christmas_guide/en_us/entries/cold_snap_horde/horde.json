@@ -6,7 +6,7 @@
     {
       "type": "text",
       "title": "The Cold Snap Horde",
-      "text": "The Cold Snap Horde is a group of angry snowmen that are trying to kill players, villagers and golems. They can be found in any cold biome. To stay safe you can wear a $(l:patchouli_jam:cold_snap_horde/hat)Top Hat$() to trick them. But don't take it off while they see you."
+      "text": "The Cold Snap Horde is a group of angry snowmen that are trying to kill players, villagers and golems. They can be found in any cold biome. To stay safe you can wear a $(l:patchouli_jam:cold_snap_horde/hat)Top Hat$() to trick them, so long as they don't watch you put it on."
     },
     {
       "type": "entity",

@@ -109,7 +109,7 @@ dependencies {
     runtimeOnly fg.deobf('curse.maven:snowy-weaponry-424431:3129064')
     compile fg.deobf('curse.maven:next-christmas-420409:3126380')
     runtimeOnly fg.deobf('curse.maven:festive-creepers-420919:3130796')
-    runtimeOnly fg.deobf('curse.maven:cold-snap-horde-426031:3131698')
+    runtimeOnly fg.deobf('curse.maven:cold-snap-horde-426031:3132706')
 
     runtimeOnly fg.deobf('curse.maven:libx-412525:3112224')
     runtimeOnly fg.deobf('curse.maven:jellyfishing-397703:3128612')

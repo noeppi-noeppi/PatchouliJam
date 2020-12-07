@@ -6,13 +6,22 @@
     {
       "type": "spotlight",
       "item": "coldsnaphorde:iceshard",
-      "text": "Frost Shards are a very rare drop fom Snowmans from the $(l:patchouli_jam:cold_snap_horde/horde)Cold Snap Horde$(). It can be used to craft Frost Cores and the Top Hat. The Top Hat will make the Cold Snap Horde think that you're a part of them. But you have to put it on while they don't see you.",
+      "text": "Frost Shards are a very rare drop from Snowmen in the $(l:patchouli_jam:cold_snap_horde/horde)Cold Snap Horde$(). It can be used to craft Frost Cores and the Top Hat. The Top Hat will make the Cold Snap Horde think that you're a part of them, but you will have to put it on while they don't see you.",
       "link_recipe": true
     },
     {
       "type": "crafting",
       "recipe": "coldsnaphorde:icecore",
       "recipe2": "coldsnaphorde:tophat"
+    },
+    {
+      "type": "spotlight",
+      "item": "coldsnaphorde:thermometer",
+      "text": "The thermometer allows you to check the temperature of your current biome. If the thermometer reads cold, you are likely to see a member of the horde when dusk falls. They have however been known to appear in warm environments as well at times..."
+    },
+    {
+      "type": "crafting",
+      "recipe": "coldsnaphorde:thermometer"
     }
   ]
 }
