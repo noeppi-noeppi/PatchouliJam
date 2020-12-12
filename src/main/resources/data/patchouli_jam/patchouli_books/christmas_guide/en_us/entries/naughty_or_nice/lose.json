@@ -1,0 +1,30 @@
+{
+  "name": "Lose Niceness",
+  "category": "patchouli_jam:naughty_or_nice",
+  "icon": "minecraft:red_wool",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Lose Niceness",
+      "text": "This chapter describes some ways to lose $(l:patchouli_jam:naughty_or_nice/niceness)Niceness$() so you get an idea what you should not do. This is not a complete list."
+    },
+    {
+      "type": "entity",
+      "title": "Spawn Bosses",
+      "entity": "minecraft:wither",
+      "text": "Spawning the Ender-Dragon or a Wither will cost you some niceness."
+    },
+    {
+      "type": "entity",
+      "title": "Hurting & Killing",
+      "entity": "minecraft:pig",
+      "text": "Hurting and killing entities makes you lose niceness. You'll lose much more niceness when you hurt babies."
+    },
+    {
+      "type": "entity",
+      "title": "Starting Raids",
+      "entity": "minecraft:witch",
+      "text": "By starting a raid you'll significantly lose niceness. Be sure to win that raid so you can get more niceness back."
+    }
+  ]
+}

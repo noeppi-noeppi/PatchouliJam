@@ -91,7 +91,7 @@ public class PageSpecialCrafting extends PageCrafting {
         @Nonnull
         @Override
         public ResourceLocation getId() {
-            return id;
+            return this.id;
         }
 
         @Nonnull

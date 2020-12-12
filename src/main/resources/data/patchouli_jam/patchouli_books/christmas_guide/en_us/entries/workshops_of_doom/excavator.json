@@ -1,0 +1,17 @@
+{
+  "name": "Excavator",
+  "category": "patchouli_jam:workshops_of_doom",
+  "icon": "workshopsofdoom:excavator_spawn_egg",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The excavator is a hostile mob who spawns in $(l:patchouli_jam:workshops_of_doom/mines)Mines & Quarries$(). Just like a vindicator they attack you with an axe. You can get some ores when you kill it."
+    },
+    {
+      "type": "entity",
+      "title": "Excavator",
+      "entity": "workshopsofdoom:excavator",
+      "text": "An excavator."
+    }
+  ]
+}

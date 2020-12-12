@@ -1,0 +1,35 @@
+{
+  "name": "Mines & Quarries",
+  "category": "patchouli_jam:workshops_of_doom",
+  "icon": "minecraft:iron_pickaxe",
+  "pages": [
+    {
+      "type": "text",
+      "text": "You can find some mines and quarries throughout the world, where $(l:patchouli_jam:workshops_of_doom/excavator)Excavators$() mine out the world while looking for ores. Quarries are huge holes dug into the world. You can find TNT minecarts and also chest minecarts with loot there. Mines often only have a little building at the top and an entrance, but they can get pretty deep and you can find some loot here as well."
+    },
+    {
+      "type": "image",
+      "images": [ "patchouli_jam:textures/workshops_of_doom/plains_quarry.png" ],
+      "border": true,
+      "text": "A quarry in a plains biome"
+    },
+    {
+      "type": "image",
+      "images": [ "patchouli_jam:textures/workshops_of_doom/desert_quarry.png" ],
+      "border": true,
+      "text": "A quarry in a desert biome"
+    },
+    {
+      "type": "image",
+      "images": [ "patchouli_jam:textures/workshops_of_doom/badlands_mine.png" ],
+      "border": true,
+      "text": "A mine in a badlands biome"
+    },
+    {
+      "type": "image",
+      "images": [ "patchouli_jam:textures/workshops_of_doom/mountain_mine.png" ],
+      "border": true,
+      "text": "A mine in a mountains biome"
+    }
+  ]
+}

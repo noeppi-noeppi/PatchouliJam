@@ -1,0 +1,17 @@
+{
+  "name": "Workshops",
+  "category": "patchouli_jam:workshops_of_doom",
+  "icon": "minecraft:iron_sword",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Workshops are huge cities where pillagers live. There can be some tunnels going very deep into the ground. Go and explore it."
+    },
+    {
+      "type": "image",
+      "images": [ "patchouli_jam:textures/workshops_of_doom/workshop.png" ],
+      "border": true,
+      "text": "A workshop in a snowy biome"
+    }
+  ]
+}

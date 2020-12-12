@@ -1,0 +1,16 @@
+{
+  "name": "Niceness",
+  "category": "patchouli_jam:naughty_or_nice",
+  "icon": "minecraft:yellow_wool",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Niceness",
+      "text": "When you were a little child you got told that santa keeps track on how you behave during the year and decides your present content by this. Many people think it was only a trick your parents played on you to make you behave better. But some people say this is true. It was observed that when people go asleep near a tree santa will leave some $(l:patchouli_jam:naughty_or_nice/present)Presents$() under the trees."
+    },
+    {
+      "type": "text",
+      "text": "It was also observed that people who behaved cruel got harmful presents while people who spread the christmas spirit got luckier there. This was then called the $(5)niceness$(). Niceness will come and go as you perform actions in your world. There are two other chapters on how to $(l:patchouli_jam:naughty_or_nice/gain)gain$() or $(l:patchouli_jam:naughty_or_nice/lose)lose$() niceness."
+    }
+  ]
+}

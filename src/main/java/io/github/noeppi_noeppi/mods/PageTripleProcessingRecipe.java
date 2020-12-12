@@ -19,7 +19,7 @@ public class PageTripleProcessingRecipe<T extends IRecipe<?>> extends PageTriple
         AbstractGui.blit(matrixStack, recipeX, recipeY, 11.0F, 71.0F, 96, 24, 128, 256);
         this.parent.drawCenteredStringNoShadow(matrixStack, this.getTitle(second).func_241878_f(), 58, recipeY - 10, this.book.headerColor);
         this.parent.renderIngredient(matrixStack, recipeX + 4, recipeY + 4, mouseX, mouseY, recipe.getIngredients().get(0));
-        this.parent.renderItemStack(matrixStack, recipeX + 40, recipeY + 4, mouseX, mouseY, getIcon(recipe));
+        this.parent.renderItemStack(matrixStack, recipeX + 40, recipeY + 4, mouseX, mouseY, this.getIcon(recipe));
         this.parent.renderItemStack(matrixStack, recipeX + 76, recipeY + 4, mouseX, mouseY, recipe.getRecipeOutput());
     }
 

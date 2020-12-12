@@ -1,0 +1,14 @@
+{
+  "name": "Present",
+  "category": "patchouli_jam:naughty_or_nice",
+  "icon": "naughtyornice:present",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "Present",
+      "item": "naughtyornice:present",
+      "text": "Presents may appear under trees near you when you sleep. They can be picked up by breaking them. To open one, right click it. Depending on your $(l:patchouli_jam:naughty_or_nice/niceness)Niceness$() you can not open all of them at any time.",
+      "link_recipe": true
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Gain Niceness",
+  "category": "patchouli_jam:naughty_or_nice",
+  "icon": "minecraft:lime_wool",
+  "pages": [
+    {
+      "type": "text",
+      "title": "Gain Niceness",
+      "text": "This chapter describes some ways to get $(l:patchouli_jam:naughty_or_nice/niceness)Niceness$() so you get an idea what you can do for it. This is not a complete list."
+    },
+    {
+      "type": "entity",
+      "title": "Kill Bosses",
+      "entity": "minecraft:ender_dragon",
+      "text": "Killing the Ender-Dragon or a Wither will get you some niceness."
+    },
+    {
+      "type": "entity",
+      "title": "Kill Pillagers",
+      "entity": "minecraft:illusioner",
+      "text": "Killing pillagers will give you some niceness."
+    },
+    {
+      "type": "entity",
+      "title": "Spawn Golems",
+      "entity": "minecraft:iron_golem",
+      "text": "Spawning golems gets you some niceness. Snowmen as well but only a little bit."
+    },
+    {
+      "type": "entity",
+      "title": "Healing & Breeding",
+      "entity": "minecraft:cow",
+      "text": "Healing and breeding entities lets you climb on santa's list."
+    },
+    {
+      "type": "entity",
+      "title": "Trading",
+      "entity": "minecraft:villager",
+      "text": "Trading with villagers and piglins can be profitable for both of you and your niceness."
+    },
+    {
+      "type": "spotlight",
+      "title": "Farming",
+      "item": "minecraft:wheat",
+      "text": "Farming is a good action to do that will get you food and niceness.",
+      "link_recipe": false
+    },
+    {
+      "type": "entity",
+      "title": "Winning Raids",
+      "entity": "minecraft:ravager",
+      "text": "Winning a raid will not only make you popular among villagers but also for santa."
+    },
+    {
+      "type": "entity",
+      "title": "Curing Zombies",
+      "entity": "minecraft:zombie_villager",
+      "text": "Cure a zombie villager to gain some niceness."
+    }
+  ]
+}
