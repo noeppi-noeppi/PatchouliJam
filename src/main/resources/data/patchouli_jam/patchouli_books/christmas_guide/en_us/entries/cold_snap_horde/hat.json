@@ -15,6 +15,17 @@
       "recipe2": "coldsnaphorde:tophat"
     },
     {
+      "type": "spotlight",
+      "item": "coldsnaphorde:transposerpiece",
+      "text": "Transposer pieces are a rare drop from the $(l:patchouli_jam:cold_snap_horde/horde)Snowman Zapper$(). It can be used to make the lightning transposer, which can be used to call lightning upon yourself, or others with the help of a snowball.",
+      "link_recipe": true
+    },
+    {
+      "type": "crafting",
+      "recipe": "coldsnaphorde:lightningtransposer",
+      "recipe2": "coldsnaphorde:lightningsnowball"
+    },
+    {
       "type": "crafting",
       "recipe": "coldsnaphorde:thermometer",
       "text": "The thermometer allows you to check the temperature of your current biome. If the thermometer reads cold, you are likely to see a member of the horde when dusk falls. They have however been known to appear in warm environments as well at times..."

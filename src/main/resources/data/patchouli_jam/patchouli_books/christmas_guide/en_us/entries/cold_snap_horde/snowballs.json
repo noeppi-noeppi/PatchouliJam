@@ -12,6 +12,11 @@
       "type": "crafting",
       "recipe": "coldsnaphorde:snowiersnowball",
       "text": "Snowier Snowballs always inflict Slowness and are pretty effective against Blazes. They can also freeze water, and turn lava to obsidian."
+    },
+    {
+      "type": "crafting",
+      "recipe": "coldsnaphorde:lightningsnowball",
+      "text": "Lightning snowballs carry a lightning transposer on them, when they land, the transposer will activate, striking the target with lightning"
     }
   ]
 }
