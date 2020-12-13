@@ -6,25 +6,25 @@
     {
       "type": "text",
       "title": "The Cold Snap Horde",
-      "text": "The Cold Snap Horde is a group of angry snowmen that are trying to kill players, villagers and golems. They can be found in any cold biome. To stay safe you can wear a $(l:patchouli_jam:cold_snap_horde/hat)Top Hat$() to trick them, so long as they don't watch you put it on."
+      "text": "The Cold Snap Horde is a band of frosty scoundrels that attack players, villagers and golems alike. They can be found in any cold biome, but can stray out into warmer biomes at times. To stay safe you can wear a $(l:patchouli_jam:cold_snap_horde/hat)Top Hat$() to trick them, so long as they don't watch you put it on."
     },
     {
       "type": "entity",
       "title": "Snowman Gunner",
       "entity": "coldsnaphorde:coldsnapgunner",
-      "text": "This one fires coal at you from a toy gun. It may sometimes blind you for a short time."
+      "text": "This snowman fires coal from a toy gun at his targets. Be careful, as he aims for the eyes."
     },
     {
       "type": "entity",
       "title": "Snowman Stabber",
       "entity": "coldsnaphorde:coldsnapstabber",
-      "text": "This madman runs around with a knife to kill everyone in sight."
+      "text": "This snowman runs around manically trying to stab his victims. Their expressionless face makes some feel unwell."
     },
     {
       "type": "entity",
       "title": "Snowman Snowballer",
       "entity": "coldsnaphorde:coldsnapsnowballer",
-      "text": "This tradition-conscious snowman will shoot $(l:patchouli_jam:cold_snap_horde/snowballs)Snow Covered Rock$() at you."
+      "text": "This tradition-conscious snowman will throw $(l:patchouli_jam:cold_snap_horde/snowballs)Snow Covered Rock$() at you."
     },
     {
       "type": "entity",
