@@ -6,17 +6,17 @@
     {
       "type": "crafting",
       "recipe": "coldsnaphorde:rockysnowball",
-      "text": "Snow Covered Rock can be thrown like a regular snowball but it will actually damage entities and sometimes applied weakness or slowness for a short time."
+      "text": "A Snow Covered Rock looks like a snowball, is thrown like a snowball, however unlike a snowball, it does damage to everyone. One bad hit to the head may induce some nasty side effects for a short time."
     },
     {
       "type": "crafting",
       "recipe": "coldsnaphorde:snowiersnowball",
-      "text": "Snowier Snowballs always inflict Slowness and are pretty effective against Blazes. They can also freeze water, and turn lava to obsidian."
+      "text": "Snowier Snowballs always inflict Slowness and are more effective than their normal counterparts against Blazes. They can also freeze water, and turn lava to obsidian."
     },
     {
       "type": "crafting",
       "recipe": "coldsnaphorde:lightningsnowball",
-      "text": "Lightning snowballs carry a lightning transposer on them, when they land, the transposer will activate, striking the target with lightning"
+      "text": "Lightning snowballs carry a Lightning Transposer on them. When they land, the transposer will activate, striking the target with lightning"
     }
   ]
 }
