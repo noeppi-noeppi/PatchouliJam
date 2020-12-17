@@ -7,6 +7,6 @@
   "model": "patchouli:book_cyan",
   "show_progress": false,
   "show_toasts": false,
-  "creative_tab": "misc",
+  "creative_tab": "patchouli_jam",
   "i18n": false
 }
