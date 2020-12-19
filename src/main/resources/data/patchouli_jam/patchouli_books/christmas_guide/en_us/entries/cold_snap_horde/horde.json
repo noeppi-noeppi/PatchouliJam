@@ -35,8 +35,14 @@
     {
       "type": "entity",
       "title": "Snowman Zapper",
-      "entity": "coldsnaphorde:coldsnapzapper",
-      "text": "This snowman has proven to be inventive and resourceful. Watch your back around him, or the results may be shocking. "
+    "entity": "coldsnaphorde:coldsnapzapper",
+    "text": "This snowman has proven to be inventive and resourceful. Watch your back around him, or the results may be shocking. "
+    },
+    {
+      "type": "entity",
+      "title": "Snowman Brawler",
+      "entity": "coldsnaphorde:coldsnapbrawler",
+      "text": "This angry snowman throws a hefty punch. This may have useful applications.. but try to avoid him when around cliffs."
     }
   ]
-}
+  }
