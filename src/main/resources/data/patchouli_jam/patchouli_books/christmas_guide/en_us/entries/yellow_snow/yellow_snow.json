@@ -1,0 +1,11 @@
+{
+  "name": "Yellow Snow",
+  "category": "patchouli_jam:yellow_snow",
+  "icon": "yellowsnow:yellow_snow_block",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(2)Yellow Snow$(0) is created by peeing on normal snow. Any entity can pee on snow. If it's snowing, yellow snow turns into white snow slowly. By hearvesting $(2)Yellow Snow$(0) you'll get $(l:patchouli_jam:yellow_snow/yellow_snowballs)Yellow Snowballs$()."
+    }
+  ]
+}
