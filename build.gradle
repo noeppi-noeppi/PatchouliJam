@@ -113,6 +113,7 @@ dependencies {
     runtimeOnly fg.deobf('curse.maven:workshops-of-doom-426387:3133380')
     runtimeOnly fg.deobf('curse.maven:naughty-or-nice-426690:3135674')
     runtimeOnly fg.deobf('curse.maven:looot-420925:3131801')
+    compile fg.deobf('curse.maven:fancy-snowy-weather-420458:3113735')
 
     runtimeOnly fg.deobf('curse.maven:libx-412525:3112224')
     runtimeOnly fg.deobf('curse.maven:jellyfishing-397703:3128612')

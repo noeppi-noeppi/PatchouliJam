@@ -6,6 +6,7 @@ import net.minecraft.nbt.CompoundNBT;
 import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.DistExecutor;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.common.Mod;
@@ -35,6 +36,9 @@ public class PatchouliJam {
             FMLJavaModLoadingContext.get().getModEventBus().addListener(this::clientSetup);
             return null;
         });
+        if (ModList.get().isLoaded("fancy_snowy_weather")) {
+            MinecraftForge.EVENT_BUS.addListener(JamCommands::registerCommands);
+        }
     }
 
     @OnlyIn(Dist.CLIENT)

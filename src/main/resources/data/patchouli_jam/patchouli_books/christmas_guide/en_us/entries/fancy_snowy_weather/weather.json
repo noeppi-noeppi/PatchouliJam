@@ -1,0 +1,19 @@
+{
+  "name": "Snow Types",
+  "category": "patchouli_jam:fancy_snowy_weather",
+  "icon": "minecraft:snowball",
+  "pages": [
+    {
+      "type": "image",
+      "images": [ "patchouli_jam:textures/fancy_snowy_weather/light.png" ],
+      "border": true,
+      "text": "Light snow may occur in every biome and make them all a winter wonderland."
+    },
+    {
+      "type": "image",
+      "images": [ "patchouli_jam:textures/fancy_snowy_weather/heavy.png" ],
+      "border": true,
+      "text": "Heavy snow will slow you down and may also damage you and freeze you to death."
+    }
+  ]
+}
