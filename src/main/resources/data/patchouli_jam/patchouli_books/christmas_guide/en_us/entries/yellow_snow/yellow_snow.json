@@ -5,7 +5,12 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(2)Yellow Snow$(0) is created by peeing on normal snow. Any entity can pee on snow. If it's snowing, yellow snow turns into white snow slowly. By hearvesting $(2)Yellow Snow$(0) you'll get $(l:patchouli_jam:yellow_snow/yellow_snowballs)Yellow Snowballs$()."
+      "text": "Yellow Snow is created by peeing on normal snow. Any entity can pee on snow. If it's snowing, yellow snow turns into white snow slowly. By harvesting Yellow Snow you'll get Yellow Snowballs. They can be thrown like regular snowballs. However they deal 0.5 to 1 hearts of damage. Blazes even get more damage."
+    },
+    {
+      "type": "crafting",
+      "recipe": "yellowsnow:yellow_snow_block_from_ingots",
+      "recipe2": "yellowsnow:yellow_snowball_from_block"
     }
   ]
 }
