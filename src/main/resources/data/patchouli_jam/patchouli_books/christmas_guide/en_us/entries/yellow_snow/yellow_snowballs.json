@@ -1,0 +1,11 @@
+{
+  "name": "Yellow Snowballs",
+  "category": "patchouli_jam:yellow_snow",
+  "icon": "yellowsnow:yellow_snowball",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(2)Yellow Snowballs$(0) can be obtained the same way like normal snowballs. The only difference is that you need to harvest $(l:patchouli_jam:yellow_snow/yellow_snow)Yellow Snow$(). Yellow Snowballs deal 0.5 to 1 hearts damage if you throw it on another entity. Blazes get more damage."
+    }
+  ]
+}
