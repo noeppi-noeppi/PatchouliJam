@@ -26,6 +26,11 @@
       "type": "crafting",
       "recipe": "snowyweaponry:netherite_cored_snowball",
       "text": "The Netherite Cored Snowball does two hearts of damage and applies Blindness for a short time."
+    },
+    {
+      "type": "crafting",
+      "recipe": "snowyweaponry:explosive_snowball",
+      "text": "The explosive snowball causes a little explosion on impact. It's the perfect throwable to knock back your enemies."
     }
   ]
 }
