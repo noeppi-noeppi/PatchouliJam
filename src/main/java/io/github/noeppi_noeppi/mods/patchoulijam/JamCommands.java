@@ -1,4 +1,4 @@
-package io.github.noeppi_noeppi.mods;
+package io.github.noeppi_noeppi.mods.patchoulijam;
 
 import com.tfc.fancysnowyweather.FancySnowyWeather;
 import com.tfc.fancysnowyweather.WeatherPacket;

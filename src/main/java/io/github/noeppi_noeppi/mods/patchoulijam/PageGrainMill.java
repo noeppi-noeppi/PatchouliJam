@@ -1,4 +1,4 @@
-package io.github.noeppi_noeppi.mods;
+package io.github.noeppi_noeppi.mods.patchoulijam;
 
 import io.github.noeppi_noeppi.mods.nextchristmas.ModRecipes;
 import io.github.noeppi_noeppi.mods.nextchristmas.mill.MillRecipe;

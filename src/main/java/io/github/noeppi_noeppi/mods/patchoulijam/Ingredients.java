@@ -1,4 +1,4 @@
-package io.github.noeppi_noeppi.mods;
+package io.github.noeppi_noeppi.mods.patchoulijam;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;

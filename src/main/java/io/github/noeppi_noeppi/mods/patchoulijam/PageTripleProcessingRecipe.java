@@ -1,4 +1,4 @@
-package io.github.noeppi_noeppi.mods;
+package io.github.noeppi_noeppi.mods.patchoulijam;
 
 import com.mojang.blaze3d.matrix.MatrixStack;
 import com.mojang.blaze3d.systems.RenderSystem;
