@@ -1,0 +1,27 @@
+{
+  "name": "Frosty Wand",
+  "category": "patchouli_jam:decorative_winter",
+  "icon": "decorative_winter:frosty_wand",
+  "pages": [
+    {
+      "type": "crafting",
+      "title": "Frosty Wand",
+      "recipe": "decorative_winter:frosty_wand",
+      "text": "The frosty wand turns grass and foliage into their dry counterparts and makes seats and palisades snowy."
+    },
+    {
+      "type": "smelting",
+      "title": "Dry Grass",
+      "recipe": "minecraft:dry_grass_block_from_smelting",
+      "recipe2": "minecraft:dry_grass_from_smelting",
+      "text": "You can also get dry grass from smelting."
+    },
+    {
+      "type": "smelting",
+      "title": "Dry Foliage",
+      "recipe": "minecraft:dry_fern_from_smelting",
+      "recipe2": "minecraft:dry_large_fern_from_smelting",
+      "text": "You can also get dry foliage from smelting."
+    }
+  ]
+}

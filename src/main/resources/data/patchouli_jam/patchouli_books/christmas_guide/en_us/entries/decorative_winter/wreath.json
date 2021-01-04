@@ -1,0 +1,19 @@
+{
+  "name": "Wreath and Chain",
+  "category": "patchouli_jam:decorative_winter",
+  "icon": "decorative_winter:wreath",
+  "pages": [
+    {
+      "type": "crafting",
+      "title": "Wreath",
+      "recipe": "decorative_winter:wreath",
+      "text": "You can create a wreath from sweet berries. It can be placed on the ground and like a trapdoor it can be flipped up."
+    },
+    {
+      "type": "crafting",
+      "title": "Festive Chain",
+      "recipe": "decorative_winter:festive_chain",
+      "text": "The festive chain can be climbed up like on a ladder. And it looks fancy."
+    }
+  ]
+}
