@@ -115,10 +115,12 @@ dependencies {
     runtimeOnly fg.deobf('curse.maven:looot-420925:3131801')
     compile fg.deobf('curse.maven:fancy-snowy-weather-420458:3113735')
     runtimeOnly fg.deobf('curse.maven:yellow-snow-420856:3145436')
+    runtimeOnly fg.deobf('curse.maven:decorative-winter-430836:3151003')
 
     runtimeOnly fg.deobf('curse.maven:libx-412525:3112224')
     runtimeOnly fg.deobf('curse.maven:jellyfishing-397703:3128612')
     runtimeOnly fg.deobf('curse.maven:geckolib-388172:3120121')
+    runtimeOnly fg.deobf('curse.maven:decorative-block-362528:3147088')
 }
 
 jar {
