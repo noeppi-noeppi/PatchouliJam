@@ -2,6 +2,10 @@
   "itemGroup.patchouli_jam": "WinterJam Miscellaneous",
   "item.patchouli_jam.book": "Winter Guide Book",
   "patchouli_jam.landing": "WinterJam is an event hosted by MMD every december where you get one month to create a mod. This book contains documentation for the mods in WinterJam 2020. It was written by noeppi_noeppi. Co-authors: jedijoe_, MelanX",
-  "patchouli_jam.command.weather.set": "Weather set to %s"
+  "patchouli_jam.command.weather.set": "Weather set to %s",
+  "patchouli_jam.command.niceness.query": "Query niceness for %s players.",
+  "patchouli_jam.command.niceness.player": "Niceness of ",
+  "patchouli_jam.command.niceness.set": "Set niceness for %s players.",
+  "patchouli_jam.command.niceness.add": "Modify niceness of %s players."
 }
 

@@ -47,9 +47,7 @@ public class PatchouliJam {
             FMLJavaModLoadingContext.get().getModEventBus().addListener(this::clientSetup);
             return null;
         });
-        if (ModList.get().isLoaded("fancy_snowy_weather")) {
-            MinecraftForge.EVENT_BUS.addListener(JamCommands::registerCommands);
-        }
+        MinecraftForge.EVENT_BUS.addListener(JamCommands::registerCommands);
     }
 
     @OnlyIn(Dist.CLIENT)
